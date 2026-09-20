@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wzntExwJwI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SaswatMahanty\\source\\repos\\Complete Registration\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SaswatMahanty\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
